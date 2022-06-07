@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Filteration-of-cards-with-input-field/static/css/main.5135e0d4.css",
+    "main.js": "/Filteration-of-cards-with-input-field/static/js/main.ab5c20ff.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Filteration-of-cards-with-input-field/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Filteration-of-cards-with-input-field/index.html",
+    "main.5135e0d4.css.map": "/Filteration-of-cards-with-input-field/static/css/main.5135e0d4.css.map",
+    "main.ab5c20ff.js.map": "/Filteration-of-cards-with-input-field/static/js/main.ab5c20ff.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Filteration-of-cards-with-input-field/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5135e0d4.css",
+    "static/js/main.ab5c20ff.js"
+  ]
+}
